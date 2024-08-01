@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanzala-h
-- 🌱 I’m currently learning ... MERN & LARAVEL
+- 🌱 I’m currently learning ... MERN nd LARAVEL
 - 👨‍🎓 Studying: ... AI
 - 📫 How to reach me ... sayhi.hanzla@gmail.com
 - 😄 Pronouns: He/His/Him
