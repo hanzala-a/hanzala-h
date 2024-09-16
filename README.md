@@ -1,4 +1,19 @@
-# Hi, I'm Hanzla! 👋
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>Hi, I'm Hanzla! 👋</h1>
+  <a href="https://github.com/hanzala-h/portfolio/raw/master/public/documents/resume.pdf">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=pdf&logoColor=white" alt="Download Resume"/>
+  </a>
+</div>
+  
+🎓 AI student exploring new horizons in tech  
+📍 Studying Artificial Intelligence at Islamia University Bahawalpur, Pakistan  
+💻 Currently diving deep into Web Development and expanding my skillset  
+🧠 Passionate about learning, problem-solving, and building innovative projects  
+🌱 Always eager to take on new challenges and improve my coding skills  
+
+# 💻 Tech Stack:
+
+
 
 🎓 AI student exploring new horizons in tech  
 📍 Studying Artificial Intelligence at Islamia University Bahawalpur, Pakistan  
