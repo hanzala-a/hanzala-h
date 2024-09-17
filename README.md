@@ -4,9 +4,10 @@
 
 🎓 AI student exploring new horizons in tech  
 📍 Studying Artificial Intelligence at Islamia University Bahawalpur, Pakistan  
-💻 Currently diving deep into Web Development and expanding my skillset  
+💻 Currently diving deep into Web Development while expanding my skillset in AI and beyond  
 🧠 Passionate about learning, problem-solving, and building innovative projects  
 🌱 Always eager to take on new challenges and improve my coding skills  
+🚀 Self-taught developer constantly experimenting with new technologies and taking ownership of my learning journey  
 
 # 💻 Tech Stack:
 ### Languages
