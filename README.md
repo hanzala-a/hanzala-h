@@ -1,4 +1,4 @@
-# Hi, I'm Hanzla! 👋
+# Hi, I'm Hanzala! 👋
 
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/hanzala-h/portfolio/raw/master/public/documents/resume.pdf)
 
